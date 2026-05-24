@@ -49,8 +49,7 @@ Desarrollar una aplicación móvil segura que combine funcionalidad útil (lecto
    ```bash
    git clone https://github.com/ZedWiz/APKQR-TFG-Cibersecurity.git
 2. Abre el proyecto en Android Studio
-3. Configura tu propia API Key de VirusTotal en el archivo local.
-
-   properties:propertiesVIRUSTOTAL_API_KEY=tu_api_key_aquí
-   
-4. Ejecuta la aplicación en un emulador o dispositivo físico (Android 8.0+)
+3. Configura tu propia API Key de VirusTotal en el archivo local.properties:
+   ```bash
+   propertiesVIRUSTOTAL_API_KEY=tu_api_key_aquí   
+6. Ejecuta la aplicación en un emulador o dispositivo físico (Android 8.0+)
