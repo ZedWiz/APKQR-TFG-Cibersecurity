@@ -65,4 +65,3 @@ Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)
 ## 📄 Licencia
 
 Este proyecto está bajo la licencia **MIT**.  
-Ver el archivo [LICENSE](LICENSE) para más detalles.
