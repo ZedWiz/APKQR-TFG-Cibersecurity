@@ -53,3 +53,16 @@ Desarrollar una aplicación móvil segura que combine funcionalidad útil (lecto
    ```bash
    propertiesVIRUSTOTAL_API_KEY=tu_api_key_aquí   
 6. Ejecuta la aplicación en un emulador o dispositivo físico (Android 8.0+)
+
+---
+
+## 👤 Autor
+
+**Guillermo**  
+Trabajo de Fin de Grado (TFG)  
+Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)
+
+## 📄 Licencia
+
+Este proyecto está bajo la licencia **MIT**.  
+Ver el archivo [LICENSE](LICENSE) para más detalles.
